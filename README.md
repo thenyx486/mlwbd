@@ -1,2 +1,2 @@
 # mlwbd
-https://thenyx486.github.io/mlwbd/
+http://www.mlwbd.movie.ccs/
